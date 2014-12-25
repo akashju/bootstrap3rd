@@ -1,0 +1,33 @@
+body{background-color: #222222;}
+.jumbotron{text-align:center;background-image:url(images/slider1.jpg); }
+
+#wrapper{background:black; }
+
+#notice{color:white;text-align:center;}
+.header-top{background-image:url("images/slider1.jpg");}
+#tsc-img {float:left;}
+#tsc2-img{float:right;}
+#reunion{float:center;}
+.tsc{text-align:center;color:Yellow; }
+.footer-top{background-image: url("img_tsc3.jpg");}
+
+
+#about-img{padding:40px; }
+.header-top {color:Blue;text-align: center;}
+.message{color:Green;}
+#about {padding-left:3px;padding-top:20px;color:Blue;}
+
+#connect{}
+
+#logo{display:inline-block;padding:40px;text-decoration:none;float:left;margin-left:50px; }
+
+
+#map_canvas {
+   display: block;
+   height: 350px;
+}
+.map_container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* Ratio 16:9 ( 100%/16*9 = 56.25% ) */
+}
